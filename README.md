@@ -3,10 +3,8 @@
 > **Project:** AI Research Assistant  
 > **Architecture:** Modular Monolith  
 > **Backend:** Python + FastAPI  
-> **Frontend:** To be finalized by the frontend team  
 > **LLM Provider:** Featherless AI  
 > **Database:** PostgreSQL + pgvector (proposed)  
-> **Team Size:** 4 Members
 
 ---
 
